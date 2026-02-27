@@ -1,0 +1,3 @@
+# Longest Common Prefix
+
+**Problem:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
