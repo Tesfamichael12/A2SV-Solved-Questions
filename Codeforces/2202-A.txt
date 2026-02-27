@@ -1,9 +1,8 @@
-// Problem: Parkour Design⏳ Pushing...
-// Contest: 2202
-// Problem Index: A
-// URL: https://codeforces.com/problemset/problem/2202/A
+// Problem: Parkour Design
+// URL: https://codeforces.com/contest/2202/problem/A
 // Language: PyPy 3-64
-// Verdict: Accepted
+// Submission: https://codeforces.com/contest/2202/submission/364136082
+// Submission ID: 364136082
 // Pushed via A2SV Hub
 
 import sys, math; from collections import defaultdict, Counter, deque; from bisect import bisect_left, bisect_right; from random import randint; from itertools import accumulate
