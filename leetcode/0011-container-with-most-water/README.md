@@ -1,7 +1,6 @@
-# 11. Container With Most Water
+# [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
-- **Difficulty:** Medium
-- **Link:** https://leetcode.com/problems/container-with-most-water/
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
 
 ## Problem
 
