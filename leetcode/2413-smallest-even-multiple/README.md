@@ -1,24 +1,26 @@
-# [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)
+<h2><a href="https://leetcode.com/problems/smallest-even-multiple/">2413. Smallest Even Multiple</a></h2>
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
+Given a <strong>positive</strong> integer <code>n</code>, return <em>the smallest positive integer that is a multiple of <strong>both</strong> </em><code>2</code><em> and </em><code>n</code>.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-<img src='https://img.shields.io/badge/Difficulty-Easy-green' alt='Difficulty: Easy' />
+<pre>
+<strong>Input:</strong> n = 5
+<strong>Output:</strong> 10
+<strong>Explanation:</strong> The smallest multiple of both 5 and 2 is 10.
+</pre>
 
-## Problem
+<p><strong class="example">Example 2:</strong></p>
 
-Given a positive integer n, return the smallest positive integer that is a multiple of both 2 and n.
- 
-Example 1:
+<pre>
+<strong>Input:</strong> n = 6
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> The smallest multiple of both 6 and 2 is 6. Note that a number is a multiple of itself.
+</pre>
 
-Input: n = 5
-Output: 10
-Explanation: The smallest multiple of both 5 and 2 is 10.
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Example 2:
-
-Input: n = 6
-Output: 6
-Explanation: The smallest multiple of both 6 and 2 is 6. Note that a number is a multiple of itself.
-
- 
-Constraints:
-
-	1 <= n <= 150
+<ul>
+	<li><code>1 &lt;= n &lt;= 150</code></li>
+</ul>
