@@ -1,0 +1,6 @@
+// URL: https://script.google.com/macros/s/AKfycbzekT26A72RcJCef_Mk52Z_PzHwYmO5BD0U4m-ycV9Wz2OTSbqDVI8pRsKOmYyALZFU/exec
+// Time (min): 9
+// Attempts: 1
+// Pushed via A2SV Hub (manual)
+
+print("hello")
