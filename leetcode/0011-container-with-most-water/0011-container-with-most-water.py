@@ -1,3 +1,10 @@
+// Problem: Container With Most Water
+// Difficulty: Medium
+// URL: https://leetcode.com/problems/container-with-most-water/
+// Language: Python3
+// Submitted: 2026-03-01T08:43:04.000Z
+// Pushed via A2SV Hub
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         max_area = 0
