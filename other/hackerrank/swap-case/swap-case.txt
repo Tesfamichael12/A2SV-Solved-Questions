@@ -1,0 +1,6 @@
+// URL: https://www.hackerrank.com/challenges/swap-case?isFullScreen=true
+// Time (min): 9
+// Attempts: 1
+// Pushed via A2SV Hub (manual)
+
+print("hello")
