@@ -2,7 +2,7 @@
 // Difficulty: Easy
 // URL: https://leetcode.com/problems/smallest-even-multiple/
 // Language: Python3
-// Submitted: 2026-03-01T20:01:03.000Z
+// Submitted: 2026-03-02T16:19:09.000Z
 // Pushed via A2SV Companion
 
 class Solution:
@@ -12,4 +12,4 @@ class Solution:
         else:
             return 2*n
 
-        # updated
+        # updated        
